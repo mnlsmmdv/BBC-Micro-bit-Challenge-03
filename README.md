@@ -19,4 +19,4 @@ The program is to only be executed on the BBC Micro:bit device. Attempts to exec
 #### Name: Ahmed Affaan, Ahmed Ahsan Azim
 #### Country: Maldives
 #### Language: C++
-#### GitHub/GitLab: https://github.com/purse_dhonnan (Affaan), https://gitlab.uwe.ac.uk/aa2-azim (Ahsan)
+#### GitHub/GitLab: https://github.com/mnlsmmdv (Affaan), https://gitlab.uwe.ac.uk/aa2-azim (Ahsan)
